@@ -21,9 +21,15 @@ Thorough evaluation dispels myths.
 Indirect access to LLMs is preferred, Unless conversational engagement is the goal.
 
 When uncertain, resort to conventional ML.
+
 LLMs serve as data labelers.
+
 No prompt is flawless; measure by business outcomes.
+
 Insightful evaluations might be overlooked, unless presented aptly.
+
 Prototyping outperforms speculation, Yet production demands greater effort.
+
 Collaboration trumps isolation.
+
 Distribute your prompts generously.
