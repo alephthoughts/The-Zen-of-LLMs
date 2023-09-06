@@ -26,7 +26,7 @@ LLMs serve as data labelers.
 
 No prompt is flawless; measure by business outcomes.
 
-Insightful evaluations might be overlooked, unless presented aptly.
+Although evaluations may not be obvious, unless you're in a client pitch.
 
 Prototyping outperforms speculation, Yet production demands greater effort.
 
