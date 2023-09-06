@@ -1,4 +1,4 @@
-# The-Zen-of-LLMs
+# The Zen of LLMs
 
 Clarity surpasses ambiguity.
 
